@@ -1,13 +1,4 @@
-# **Takım İsmi**
-Takım 83
-# **Ürün İle İlgili Bilgiler**
-## **Takım Elemanları**
-- Melisa Özkılıç : Product Owner 
-- Melike Acuner : Scrum Master
-- Şevket Binali : Developer
-- Merve Yüsra Bektaş : Developer
-## **Ürün İsmi**
-Proby AI
+#Proby AI#
 ## **Ürün Açıklaması**
 Kurumsal süreçlerde oluşan problemleri sistematik metodolojiler ve yapay zeka desteğiyle analiz eden, çözüm süreçlerini dijital hafızaya dönüştüren bir bilgi yönetim platformudur.
 ## **Ürün Özellikleri**
