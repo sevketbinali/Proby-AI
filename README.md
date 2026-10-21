@@ -1,4 +1,4 @@
-Proby AI
+## **Proby AI**
 ## **Ürün Açıklaması**
 Kurumsal süreçlerde oluşan problemleri sistematik metodolojiler ve yapay zeka desteğiyle analiz eden, çözüm süreçlerini dijital hafızaya dönüştüren bir bilgi yönetim platformudur.
 ## **Ürün Özellikleri**
